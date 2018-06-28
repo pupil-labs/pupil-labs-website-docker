@@ -15,7 +15,7 @@ Build the docker image. This will use the `Dockerfile` by default.
 
 ```bash
 cd pupil-docker-ubuntu
-docker build . --file 'Dockerfile' --tag 'pupillabs/pupil-labs-website:1.0'
+docker build . --file 'Dockerfile' --tag 'pupillabs/pupil-labs-website-node:latest'
 ```
 
 ##Debugging
